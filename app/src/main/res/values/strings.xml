@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flip Timer</string>
+    <string name="mode_clock">Clock</string>
+    <string name="mode_timer">Countdown Timer</string>
+    <string name="mode_stopwatch">Stopwatch</string>
+    <string name="mode_customize">Customize</string>
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_lap">Lap</string>
+    <string name="action_add_five_min">+5m</string>
+    <string name="action_subtract_five_min">−5m</string>
+    <string name="action_custom_duration">Custom</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_running">Running</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_completed">Time Up</string>
+    <string name="cd_subtract_five_minutes">Subtract five minutes</string>
+    <string name="cd_add_five_minutes">Add five minutes</string>
+    <string name="cd_start_timer">Start countdown timer</string>
+    <string name="cd_pause_timer">Pause countdown timer</string>
+    <string name="cd_resume_timer">Resume countdown timer</string>
+    <string name="cd_reset_timer">Reset countdown timer</string>
+    <string name="cd_custom_duration">Set custom timer duration</string>
+    <string name="cd_start_stopwatch">Start stopwatch</string>
+    <string name="cd_pause_stopwatch">Pause stopwatch</string>
+    <string name="cd_resume_stopwatch">Resume stopwatch</string>
+    <string name="cd_reset_stopwatch">Reset stopwatch</string>
+    <string name="cd_lap_stopwatch">Record stopwatch lap</string>
+</resources>

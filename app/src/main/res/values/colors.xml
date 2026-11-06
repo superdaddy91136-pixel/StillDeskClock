@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pure_black">#FF000000</color>
+    <color name="panel_charcoal">#FF151515</color>
+    <color name="digits_soft_white">#FFF2F2F2</color>
+    <color name="secondary_text">#FFA0A0A0</color>
+    <color name="secondary_control">#FF242424</color>
+    <color name="page_indicator">#FF555555</color>
+</resources>
